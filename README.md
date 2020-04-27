@@ -10,8 +10,8 @@ Using a python3 environment, run the following to install all the libraries used
 ```
 pip install spawner -U
 ```
-If you don't already have plotly and ffn you'll need to install those as well. 
+If you don't already have pandas, plotly, or ffn you'll need to install those as well. 
 ```
-pip install plotly ffn 
+pip install pandas plotly ffn 
 ```
 
